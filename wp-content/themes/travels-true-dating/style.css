@@ -1,0 +1,94 @@
+/*
+Theme Name: Travels True Dating
+Theme URI: https://travels-true-dating.com
+Author: Snaprocket
+Author URI: https://snaprocket.com/
+Description: Travels true dating
+Requires at least: 5.3
+Tested up to: 6.2
+Requires PHP: 5.6
+Version: 1.8
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: travels-true-dating
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+.cover {
+	background: linear-gradient(180deg, #FFE7B6 0%, rgba(255, 248, 235, 0) 100%);
+}
+
+.lexend {
+	font-family: Lexend;
+}
+
+.inter {
+	font-family: Inter;
+}
+
+.border-register {
+	border: 2px solid rgba(219, 0, 7, 1);
+	border-radius: 6px;
+	padding: 10px;
+}
+
+.description {
+	font-size: 40px;
+}
+
+.rojo-amarillo-1 {
+	background: -webkit-linear-gradient(179deg, #DB0007 0.86%, #FFBC0D 21.78%);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.rojo-amarillo-2 {
+	background: -webkit-linear-gradient(180deg, #DB0007 28.68%, #FFBC0D 41.56%);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.rojo-amarillo-3 {
+	background: -webkit-linear-gradient(180deg, #DB0007 73.69%, #FFBC0D 91.97%);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.rojo-amarillo-4 {
+	background: -webkit-linear-gradient(180deg, #DB0007 53.38%, #FFBC0D 66.02%);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bg-rojo {
+	background: rgba(219, 0, 7, 1);
+	border-radius: 20px;
+}
+
+.bg-amarillo {
+	background: rgba(255, 188, 13, 1);
+	border-radius: 20px;
+}
+
+.bg-azul {
+	background: rgba(107, 210, 255, 1);
+	border-radius: 20px;
+}
+
+.roboto {
+	font-family: Roboto;
+}
+
+.bg-marron {
+	background: url('http://travels-true-dating.localhost/wp-content/themes/travels-true-dating/img/bg-brown.png');
+	background-size: cover;
+}
+
+.bg-marron-title {
+	font-size: 40px;
+}
+
+.bg-footer {
+	background: url('http://travels-true-dating.localhost/wp-content/themes/travels-true-dating/img/bg-footer.png');
+	background-size: cover;
+}
